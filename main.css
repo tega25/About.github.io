@@ -1,0 +1,19 @@
+nav a {
+    display: inline;
+    position: relative;
+    left:950px;
+    color:purple;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+#logo {
+    position: relative;
+    right: 350px;
+    
+}
