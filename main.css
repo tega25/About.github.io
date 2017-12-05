@@ -9,6 +9,11 @@ h4 {
     text-align: center;
 }
 
+.description {
+    position: relative;
+    left: 300px;
+}
+
 p {
     text-align: center;
 }
